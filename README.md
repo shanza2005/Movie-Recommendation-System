@@ -1,5 +1,6 @@
  🎬 Movie Recommendation System
- 📌 Project Overview
+ 
+ Project Overview
 This is a console-based Movie Recommendation System developed in C++. The project recommends movies to users based on their selected genre and provides an interactive menu-driven interface.
 
  ✨ Features
